@@ -1,4 +1,4 @@
- [![MasterHead]https://wallpapersafari.com/w/zZtvpf]
+ [![MasterHead](https://wallpapersafari.com/w/zZtvpf)
 <h1 align="center">Hi 👋, I'm Kadir</h1>
 <h3 align="center">a molcular biologist in Izmir</h3>
 
