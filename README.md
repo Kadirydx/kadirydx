@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadir</h1>
-<h3 align="center">a molcular biologist in Izmir</h3>
+<h3 align="center">a molecular biologist in Izmir</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
